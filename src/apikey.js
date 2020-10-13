@@ -1,0 +1,3 @@
+export const API_KEY_SUBSCRIBER1 = 'eX5zNQ.FNQ1fw:Z3ORS-KcUT2tMU9i';
+export const API_KEY_SUBSCRIBER2 = 'eX5zNQ.zsEO2Q:VMr7gGC5ycQCpjFv';
+export const API_KEY_ADMIN = 'eX5zNQ.Qa2MPA:8DL570gMEEKQ7GjQ';
